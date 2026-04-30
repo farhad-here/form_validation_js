@@ -33,11 +33,12 @@
 - JavaScript (ES6)
 ### ◼️ Project Purpose
   This project demonstrates basic client-side form validation with JavaScript.
-  Input validation ✔️
-  DOM manipulation ✔️
-  Handling form events ✔️
-  responsive ✔️
+  - Input validation ✔️
+  - DOM manipulation ✔️
+  - Handling form events ✔️
+  - responsive ✔️
 ### 📱 Screenshots
+![Uploading proj2.JPG…]()
 
 
 ### ❓ How to Run
