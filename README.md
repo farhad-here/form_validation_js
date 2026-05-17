@@ -38,7 +38,7 @@
   - Handling form events ✔️
   - responsive ✔️
 ### 📱 Screenshots
-![Uploading proj2.JPG…]()
+<img width="765" height="457" alt="proj2" src="https://github.com/user-attachments/assets/bb13e83d-8179-4316-b03c-59e7f0165085" />
 
 
 ### ❓ How to Run
